@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="59px" viewBox="0 0 53 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu Toggle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.7%" y="-15.7%" width="131.4%" height="131.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="159.690059%" y1="-66.2435689%" x2="0.499999523%" y2="101.499999%" id="linearGradient-2">
+            <stop stop-color="#FF2B00" stop-opacity="0.374971694" offset="0%"></stop>
+            <stop stop-color="#FA4A26" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1836.000000, -31.000000)">
+            <g id="Hero-Section" transform="translate(0.000000, -2.000000)">
+                <g id="Menu-Toggle" filter="url(#filter-1)" transform="translate(1837.000000, 37.000000)">
+                    <path d="M26.5,0.577350269 L46.5836478,12.1726497 C47.20245,12.5299153 47.5836478,13.1901694 47.5836478,13.9047005 L47.5836478,37.0952995 C47.5836478,37.8098306 47.20245,38.4700847 46.5836478,38.8273503 L26.5,50.4226497 C25.8811978,50.7799153 25.1188022,50.7799153 24.5,50.4226497 L4.4163522,38.8273503 C3.79755005,38.4700847 3.4163522,37.8098306 3.4163522,37.0952995 L3.4163522,13.9047005 C3.4163522,13.1901694 3.79755005,12.5299153 4.4163522,12.1726497 L24.5,0.577350269 C25.1188022,0.220084679 25.8811978,0.220084679 26.5,0.577350269 Z" id="Polygon" fill="#FFFFFF"></path>
+                    <g id="Menu-Lines" transform="translate(13.000000, 19.000000)" fill="url(#linearGradient-2)">
+                        <rect id="Rectangle" x="0" y="0" width="26" height="2.4137931" rx="1.20689655"></rect>
+                        <rect id="Rectangle-Copy-38" x="0" y="5.79310345" width="26" height="2.4137931" rx="1.20689655"></rect>
+                        <rect id="Rectangle-Copy-39" x="0" y="11.5862069" width="26" height="2.4137931" rx="1.20689655"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

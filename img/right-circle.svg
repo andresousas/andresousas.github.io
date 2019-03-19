@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="110px" viewBox="0 0 95 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="136.516232%" y1="-57.3800828%" x2="0.499999523%" y2="101.499999%" id="linearGradient-1">
+            <stop stop-color="#FF2B00" stop-opacity="0.374971694" offset="0%"></stop>
+            <stop stop-color="#FA4A26" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="171.173353%" y2="172.186217%" id="linearGradient-2">
+            <stop stop-color="#4ABCAD" offset="0%"></stop>
+            <stop stop-color="#D9FFFA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1000.000000, -1333.000000)">
+            <g id="About-Section" transform="translate(490.000000, 1180.000000)">
+                <g id="Photo-PlaceHolder" transform="translate(340.000000, 0.000000)">
+                    <g id="Group-2" transform="translate(170.000000, 153.000000)">
+                        <circle id="Oval-Copy-4" fill="url(#linearGradient-1)" cx="45" cy="65.5981308" r="44.3925234"></circle>
+                        <circle id="Oval-Copy-6" fill="url(#linearGradient-2)" cx="66.9626168" cy="28.682243" r="28.0373832"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

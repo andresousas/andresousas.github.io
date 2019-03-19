@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="893px" height="1007px" viewBox="0 0 893 1007" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="101.499999%" y1="-0.499999523%" x2="0.499999523%" y2="101.499999%" id="linearGradient-1">
+            <stop stop-color="#FF2B00" stop-opacity="0.374971694" offset="0%"></stop>
+            <stop stop-color="#FA4A26" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1027.000000, 0.000000)" fill="url(#linearGradient-1)">
+            <g id="Hero-Section" transform="translate(0.000000, -2.000000)">
+                <g id="Blobs-Mobile" transform="translate(945.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(82.000000, 0.000000)">
+                        <path d="M893,2.01962729 L61.3697259,0.863186951 C-66.3205996,266.998535 -19.8820007,662.62849 454.378783,963.088435 C569.149527,1035.79951 715.356599,1019.39302 893,913.868955 L893,2.01962729 Z" id="Path-2" opacity="0.682547433"></path>
+                        <path d="M893,2 L186.841234,2 C33.9676113,199.340655 -15.4950883,397.140422 38.4531352,595.399301 C92.4013588,793.658181 377.250314,931.424956 893,1008.69963 L893,2 Z" id="Path" opacity="0.688662574"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

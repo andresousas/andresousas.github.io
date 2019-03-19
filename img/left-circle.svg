@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="116.205659%" y1="-30.1506222%" x2="0.499999523%" y2="101.499999%" id="linearGradient-1">
+            <stop stop-color="#FF2B00" stop-opacity="0.374971694" offset="0%"></stop>
+            <stop stop-color="#FA4A26" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-830.000000, -1180.000000)" fill="url(#linearGradient-1)">
+            <g id="About-Section" transform="translate(490.000000, 1180.000000)">
+                <g id="Photo-PlaceHolder" transform="translate(340.000000, 0.000000)">
+                    <circle id="Oval-Copy-5" cx="61.1682243" cy="61.1682243" r="61.1682243"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

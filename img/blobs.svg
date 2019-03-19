@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="975px" height="1007px" viewBox="0 0 975 1007" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Blobs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="101.499999%" y1="-0.499999523%" x2="0.499999523%" y2="101.499999%" id="linearGradient-1">
+            <stop stop-color="#FF2B00" stop-opacity="0.374971694" offset="0%"></stop>
+            <stop stop-color="#FA4A26" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-2">
+            <stop stop-color="#4ABCAD" offset="0%"></stop>
+            <stop stop-color="#D9FFFA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-945.000000, 0.000000)">
+            <g id="Hero-Section" transform="translate(0.000000, -2.000000)">
+                <g id="Blobs" transform="translate(945.000000, 0.000000)">
+                    <path d="M975,2.01962729 L143.369726,0.863186951 C15.6794004,266.998535 62.1179993,662.62849 536.378783,963.088435 C651.149527,1035.79951 797.356599,1019.39302 975,913.868955 L975,2.01962729 Z" id="Path-2" fill="url(#linearGradient-1)"></path>
+                    <path d="M975,2 L268.841234,2 C115.967611,199.340655 66.5049117,397.140422 120.453135,595.399301 C174.401359,793.658181 459.250314,931.424956 975,1008.69963 L975,2 Z" id="Path" fill="url(#linearGradient-2)" opacity="0.954543341"></path>
+                    <g id="Misc" opacity="0.450799851" transform="translate(0.000000, 2.000000)">
+                        <rect id="Rectangle" fill-opacity="0.338315217" fill="#ABFAFD" opacity="0.221633185" x="670" y="0" width="305" height="438" rx="5"></rect>
+                        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="10" opacity="0.126511347" x="736" y="561" width="200" height="250" rx="5"></rect>
+                        <rect id="Rectangle-Copy-2" stroke="#FFFFFF" stroke-width="10" opacity="0.0289015997" x="56" y="67" width="370" height="493"></rect>
+                        <rect id="Rectangle" fill-opacity="0.547158062" fill="#AAFAFD" opacity="0.0529436384" x="525" y="192" width="125" height="125" rx="5"></rect>
+                        <rect id="Rectangle-Copy" fill-opacity="0.164685236" fill="#ABFAFD" x="0" y="338" width="650" height="100" rx="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
